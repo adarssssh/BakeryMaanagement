@@ -1,5 +1,5 @@
-# BakeryMaanagement
-**APIs with no frontend for a Bakery Management Application**
+# BakeryMaanagement Django-Rest-Framework
+**APIs with no frontend for a Bakery Management Application on Django Rest Framework**
 
 
 ***Bakery Shop ADMIN have the capability to:***
