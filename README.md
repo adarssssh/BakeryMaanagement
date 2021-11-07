@@ -1,4 +1,4 @@
-# BakeryMaanagement Django-Rest-Framework
+# BakeryManagement Django-Rest-Framework
 **APIs with no frontend for a Bakery Management Application on Django Rest Framework**
 
 
